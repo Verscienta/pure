@@ -1,6 +1,36 @@
 Pure Change History
 ===================
 
+1.0.0 (2017-06-05)
+------------------
+
+The community has battle-tested Pure and provided valuable feedback. We are now at a place where we can guarantee backwards compatibility through all subsequent 1.x releases.
+
+We hope you have found Pure to be useful and unobtrusive.. To provide feedback, please comment on this GitHub issue, or file a new issue to have it tracked as a separate thread.
+
+
+0.6.2 (2017-01-05)
+------------------
+
+* Added proper module API for node users [#619]
+
+### Buttons
+
+* Added Button Groups to Pure [#621]
+
+### Menus
+
+* Reset style for horizontal dropdown separator [#620]
+
+0.6.1 (2016-10-12)
+------------------
+
+* Migrate to PostCSS for browser prefixes [#617]
+* Remove duplicate Firefox inner focus border [#457]
+* Fix grid inside table in IE 10/11 [#504]
+* Fix CSSLint issues [#609]
+* Upgraded grunt dependencies to 1.x [#609]
+
 0.6.0 (2015-02-07)
 ------------------
 
